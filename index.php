@@ -27,7 +27,7 @@
                     <div class="col-sm-6">
                     <h4 class="bigger lighter">
                         <i class="glyphicon glyphicon-align-justify"></i>&nbsp;
-                        TASK MANA00GER
+                        TASK MANAGER
                     </h4>
                     </div>
                     
@@ -62,8 +62,6 @@
 </div>
 </div>
 
-<script type="text/javascript" src="js/angular.min.js"></script>
-<script type="text/javascript" src="app/app.js"></script>
 </body>
 </html>
         
